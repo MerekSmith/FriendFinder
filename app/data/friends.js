@@ -161,6 +161,22 @@ var friendsArray =
 				4,
 				5
 			]
+		},
+		{
+			name: "Thor",
+			photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAisAAAAJGUxYzc4YzA0LWQxMzUtNGI4NS04YTFiLTkwYzM0YTZkNzA2NA.jpg",
+			scores: [
+				4,
+				4,
+				2,
+				3,
+				2,
+				2,
+				3,
+				2,
+				4,
+				5
+			]
 		}
 		// End of friends array.
 	];
